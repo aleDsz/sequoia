@@ -1,0 +1,7 @@
+
+(library
+ (name sequoia_postgresql)
+   (public_name sequoia-postgresql)
+   (libraries
+    sequoia
+     unix))

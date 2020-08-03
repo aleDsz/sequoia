@@ -5,3 +5,5 @@ _build/
 *.byte
 *.docdir
 *.install
+_esy
+esy.lock
